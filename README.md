@@ -26,7 +26,7 @@ data
 │   ├── districts.csv
 │   └── provinces.csv
 ├── js
-│   ├── regions.js      # 省市区全部数据
+│   ├── regions.js          # 省市区全部数据
 │   └── regions.object.js   # 省市区全部数据 (对象)
 ├── json
 │   ├── cities.json
@@ -35,7 +35,7 @@ data
 │   ├── districts.object.json
 │   ├── provinces.json
 │   ├── provinces.object.json
-│   ├── regions.json 			        # 省市区全部数据
+│   ├── regions.json            # 省市区全部数据
 │   └── regions.object.json 		    # 省市区全部数据 (对象)
 │   └── regions.object.flat.json 	    # 省市区全部数据 (扁平对象)
 │   └── regions.object.flat.full.json 	    # 省市区全部数据 (扁平对象含父级)
