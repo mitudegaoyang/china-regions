@@ -21,10 +21,6 @@ Latest upated at 2018-08. ([Source](http://www.mca.gov.cn/article/sj/xzqh/2018/2
 
 ```
 data
-├── csv
-│   ├── cities.csv
-│   ├── districts.csv
-│   └── provinces.csv
 ├── js
 │   ├── regions.js          # 省市区全部数据
 │   └── regions.object.js   # 省市区全部数据 (对象)
@@ -35,15 +31,10 @@ data
 │   ├── districts.object.json
 │   ├── provinces.json
 │   ├── provinces.object.json
-│   ├── regions.json                        # 省市区全部数据
-│   └── regions.object.json                 # 省市区全部数据 (对象)
+│   ├── regions.json                        # 省市区全部数据 (含港澳台)
+│   └── regions.object.json                 # 省市区全部数据 (对象、含港澳台)
 │   └── regions.object.flat.json            # 省市区全部数据 (扁平对象)
-│   └── regions.object.flat.full.json       # 省市区全部数据 (扁平对象含父级)
-└── sql
-    ├── cities.sql
-    ├── districts.sql
-    ├── provinces.sql
-    └── regions.sql         # 省市区全部数据
+│   └── regions.object.flat.full.json       # 省市区全部数据 (扁平对象含父级、含港澳)
 ```
 
 ## 引用资料
