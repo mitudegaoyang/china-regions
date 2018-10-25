@@ -43,7 +43,7 @@ data
     ├── cities.sql
     ├── districts.sql
     ├── provinces.sql
-    └── regions.sql 		# 省市区全部数据
+    └── regions.sql         # 省市区全部数据
 ```
 
 ## 引用资料
