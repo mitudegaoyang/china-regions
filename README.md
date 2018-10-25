@@ -35,9 +35,9 @@ data
 │   ├── districts.object.json
 │   ├── provinces.json
 │   ├── provinces.object.json
-│   ├── regions.json            # 省市区全部数据
-│   └── regions.object.json     # 省市区全部数据 (对象)
-│   └── regions.object.flat.json        # 省市区全部数据 (扁平对象)
+│   ├── regions.json                        # 省市区全部数据
+│   └── regions.object.json                 # 省市区全部数据 (对象)
+│   └── regions.object.flat.json            # 省市区全部数据 (扁平对象)
 │   └── regions.object.flat.full.json       # 省市区全部数据 (扁平对象含父级)
 └── sql
     ├── cities.sql
