@@ -7,7 +7,7 @@
 最后更新于 2018-08. ([源网页](http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/20180810101641.html)、
 [港澳台地区数据](http://www.zxinc.org/gb2260-latest.htm))
 
-#### Intro
+## Intro
 
 The People's Republic of China regions data, provide JSON data format.
 
@@ -17,7 +17,7 @@ The data that is from Ministry of Civil Affairs of the People's Republic of Chin
 Latest upated at 2018-08. ([Source](http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/20180810101641.html)、
 [Hong Kong, Macao and Taiwan Source](http://www.zxinc.org/gb2260-latest.htm))
 
-#### 目录结构
+## 目录结构
 
 ```
 data
@@ -46,7 +46,7 @@ data
     └── regions.sql 		# 省市区全部数据
 ```
 
-#### 引用资料
+## 引用资料
 
 * [中华人民共和国行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/2018/)
 * [Administrative divisions of China](https://en.wikipedia.org/wiki/Administrative_divisions_of_China)
